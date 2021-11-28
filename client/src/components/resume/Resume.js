@@ -91,18 +91,11 @@ const Resume = (props) => {
 
     const projectsDetails = [
         {
-            title: "Personal Portfolio Website",
-            link: "https://agudelo.dev",
-            duration: { fromDate: "Summer 2021 ", toDate: " Fall 2021" },
-            description: "A Personal Portfolio website to showcase all my details and projects at one place.",
-            subHeading: "Technologies Used: React JS, Bootsrap",
-        },
-        {
             title: "Mobile Taxi Service ",
             link: "https://expo.dev/@charles-afk/taxi-mobile-app",
             duration: { fromDate: "Spring 2021 ", toDate: " Summer 2021" },
             description: "A taxi application which utilizes third party API's provided by Google",
-            subHeading: "Technologies Used:  React Native, Redux.",
+            subHeading: "Technologies Used:  React Native, Redux, Google APIs.",
         },
         {
             title: "Ecommerce Website",
